@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94711612565'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'sandaneth md w. a. bot'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,11 +41,11 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'sandaneth md w. a. bot'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@sandaneth md w. a. bot🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
@@ -55,9 +55,20 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/a7c03bea0d3922f702ae1.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = ''HEY IM ALIVE NOW💖
+
+24/7 Hour working bot
+
+Join our grp
+
+https://chat.whatsapp.com/C4jFTb6OtlM5kLr75llDTW
+
+. menu
+My command list👍
+
+ // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
 
